@@ -25,9 +25,8 @@ library(pROC)
 set.seed(100)
 ```
 
-## Task:
-Supervised statistical learning. 
-Use statistical learning (with or without dimensionality reduction)
+## Aim:
+Supervised statistical learning
 to identify the combination of features that are more likely to be associated with heart disease.
 
 Using R version 4.0.3 (2020-10-10)
